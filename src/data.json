@@ -1,0 +1,15 @@
+[{
+  "id": 1,
+  "task": "Add to List",
+  "complete": false
+},
+{
+  "id": 2,
+  "task": "Click Delete btn to remove me",
+  "complete": true
+},
+{
+  "id": 3,
+  "task": "This is just linked to a json for now",
+  "complete": true
+}]
